@@ -4,3 +4,4 @@ analysis.R - produces a bar plot sorted by murder rate
 
 wrangle-data.R - uses the FBI murder data to treat region as a factor and add a rate field
 
+new line
