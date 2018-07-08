@@ -11,4 +11,8 @@ web edits
 >>>>>>> db34e6e392164903459044b5852bbac2126a41c0
 
 more edits
+<<<<<<< HEAD
 local new line
+=======
+web new lines
+>>>>>>> 7d7059850127f5915bcfde97c759e3cabb2e6598
